@@ -187,4 +187,10 @@ footer {
 
 img {
 	border-radius: 50%;
-  }
+}
+
+
+.profile {
+	max-height: 75px;
+	max-width: 75px;
+}
